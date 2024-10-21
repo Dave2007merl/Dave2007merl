@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dave2007merl
-- 👀 I’m interested in web3 
-- 🌱 I’m currently learning testnets
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He
-- ⚡ Fun fact: im fun to work with 
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 How to reach me ...@Davej_213 on X
+- 😄 Pronouns: He/him
+- ⚡ Fun fact:
 
 <!---
 Dave2007merl/Dave2007merl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
